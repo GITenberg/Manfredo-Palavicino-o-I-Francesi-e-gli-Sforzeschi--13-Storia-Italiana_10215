@@ -1,0 +1,26 @@
+_repo: Manfredo-Palavicino-o-I-Francesi-e-gli-Sforzeschi--13-Storia-Italiana_10215
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rovani, Giuseppe
+    birthdate: 1818
+    deathdate: 1874
+    gutenberg_agent_id: '3386'
+    url: http://www.gutenberg.org/2009/agents/3386
+    wikipedia: http://it.wikipedia.org/wiki/Giuseppe_Rovani
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10215'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lombardy (Italy) -- History -- 16th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: "Manfredo Palavicino, o, I Francesi e gli Sforzeschi\r\nStoria Italiana"
+url: http://www.gutenberg.org/ebooks/10215
