@@ -1,5 +1,8 @@
 _repo: Manfredo-Palavicino-o-I-Francesi-e-gli-Sforzeschi--13-Storia-Italiana_10215
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rovani, Giuseppe
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3386
     wikipedia: http://it.wikipedia.org/wiki/Giuseppe_Rovani
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10215#Manfredo-Palavicino-o-I-Francesi-e-gli-Sforzeschi--13-Storia-Italiana
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
